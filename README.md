@@ -11,6 +11,8 @@
 
 - 🤝 I’m looking for **java backend developer role.**
 
+- 📝 I regularly write articles on [https://medium.com/@omanubhavmishra](https://medium.com/@omanubhavmishra)
+
 - 📫 How to reach me **omanubhavmishra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
