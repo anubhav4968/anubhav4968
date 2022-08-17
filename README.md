@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anubhav Mishra</h1>
-<h3 align="center">I am willing to collaborate as a team player building better code. As a java Backend Developer.</h3>
+<h3 align="center">I am an aspiring and diligent Java Developer. Determined problem solver, with
+600+ hours of hands-on coding experience. Dependable team player, enthusiastic
+to work on projects at company. Bringing forth a motivated attitude and a variety
+of powerful skills. Capable of writing production ready code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav4968&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav4968" /> </p>
 
