@@ -28,6 +28,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anubhav-mishra-725b9322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anubhav-mishra-725b9322b" height="30" width="40" /></a>
 <a href="https://medium.com/@omanubhavmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@omanubhavmishra" height="30" width="40" /></a>
+<a href="https://instagram.com/anubhav4968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anubhav4968" height="30" width="40" /></a>
+<a href="https://twitter.com/@Anubhav58825453" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Anubhav58825453" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
