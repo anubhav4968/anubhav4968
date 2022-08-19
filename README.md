@@ -1,5 +1,14 @@
 
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Anubhav!</h1>
+
+
+
+
+![Anubhav](https://user-images.githubusercontent.com/101594693/185679212-d9ed30dd-da8a-4551-9322-5d12ef21fbfc.gif)
+
+
+
+
 <h3 align="center">I am an aspiring and diligent Java Developer. Determined problem solver, with 600+ hours of hands-on coding experience. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
