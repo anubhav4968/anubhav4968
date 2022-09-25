@@ -14,11 +14,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav4968&label=Profile%20views&color=0e75b6&style=flat" alt="Anubhav Mishra" /> </p>
 
-- 🌱 I’m currently learning **java backend development course at Masai.**
+- 🌱 Currently learning **java backend development course at Masai.**
 
-- 👯 I’m looking to collaborate on **Developing new and intriguing open-source projects, with the community, for the community**
+- 👯 Looking to collaborate on **Developing new and intriguing open-source projects, with the community, for the community**
 
-- 🤝 I’m looking for **java backend developer role.**
+- 🤝 Looking for **java backend developer role.**
 
 - 📝 I regularly write articles on [https://medium.com/@omanubhavmishra](https://medium.com/@omanubhavmishra)
 
