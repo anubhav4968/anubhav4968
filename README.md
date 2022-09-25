@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">I am an aspiring and diligent Java Developer. Determined problem solver, with 600+ hours of hands-on coding experience. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
+<h3 align="center">An aspiring and diligent Java Developer. Determined problem solver, with 600+ hours of hands-on coding experience. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav4968&label=Profile%20views&color=0e75b6&style=flat" alt="Anubhav Mishra" /> </p>
